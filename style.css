@@ -1,0 +1,10 @@
+/* // Start Header Sticky Menu */
+header.header-sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(27, 27, 27, 0.5);
+    padding-bottom: 18px;
+}
+/* // End Header Sticky Menu */
